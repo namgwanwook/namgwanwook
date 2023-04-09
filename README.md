@@ -50,6 +50,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/redmine-B32024?style=for-the-badge&logo=redmine&logoColor=black">
 </div>
 <div id="gitstatuswrraper">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgwanwook&show_icons=true&theme=onedark)
+<img src="https://github-readme-stats.vercel.app/api?username=namgwanwook&show_icons=true&theme=onedark">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namgwanwook&layout=compact&theme=onedark)
 </div>
