@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <!--
 **namgwanwook/namgwanwook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?text=JAVA_Programer&type=wave&color=auto&height=300&section=header%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?text='Hi there 👋'&type=wave&color=auto&height=100&section=header%20render&fontSize=90)
