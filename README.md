@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 🔭 I’m currently working on
 <br/>
-2020/12 ~ 2023/05 가이스트코리아
+2020/12 ~ 2023/05 가이스트코리아<br/>
+2023/10 ~         마크로밀엠브레인
 <br/>
 <br/>
 <div id="teckstackwrraper">
